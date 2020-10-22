@@ -1,0 +1,17 @@
+.customImage{
+    width: 100%;
+    height: 300px;
+    background-size: 100% 100%;
+    background-position: center;
+}
+.BeersCard{
+    background-color: rgb(90, 90, 197) !important;
+}
+.heart{
+    font-size: 25px;
+margin-right: 245px;
+&:hover{
+    cursor: pointer;
+    color: red;
+}
+}
